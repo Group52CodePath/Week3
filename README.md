@@ -3,6 +3,8 @@
 ### App Description
 A chatbot app that can advise a novice interested in the programming industry of the interview process prior to being hired at a tech company.
 
+---
+
 ### App Idea Evaluation
 
 - Category: Social / Life Skills
