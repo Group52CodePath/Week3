@@ -1,16 +1,17 @@
-## APP_NAME_HERE
+## TalkCode
 
 ### App Description
-// TODO: Add App Description
+A chatbot app that can advise a novice interested in the programming industry of the interview process prior to being hired at a tech company.
 
 ### App Idea Evaluation
-// TODO: Evaluate app across the following categories using the App Evaluation Protocol.
 
-- Mobile:
-- Story:
-- Market:
-- Habit:
-- Scope:
+- Category: Social / Life Skills
+
+- Mobile: Not necessarily, however it will make it easier for student who will be using the service.
+- Story: Teaches individuals interested in tech how to conduct technical interviews with recruiters.
+- Market: Any job seeker can use the app.
+- Habit: Use the app for a span of 6-12 months until the skills needed to be fluent in the interview process has been solidified. 
+- Scope: Allow job seekers (mainly students) to learn about job interviews easier than existing resources 
 
 ---
 
